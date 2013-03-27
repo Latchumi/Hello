@@ -1,1 +1,5 @@
+It is changed 3rd time<<<<<<< HEAD
 Sample Text 1 Modified second time
+=======
+Sample Text 1 - modified now
+>>>>>>> created1
